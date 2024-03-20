@@ -511,7 +511,7 @@
       "user": "Current user",
       "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
       "taskList": "FLOORING AND TILING",
-      "building": "SCT-BLD-H",
+      "building": "SCT-BLD-A",
       "sapUniqueId": "2122000777-100",
       "wbs2": "UNIT INTERNAL",
       "location": "SL09-B",
@@ -558,7 +558,7 @@
       "building": "SCT-BLD-H",
       "sapUniqueId": "2122000772-800",
       "wbs2": "UNIT INTERNAL",
-      "location": "SL07-A",
+      "location": "SL07-B",
       "status": "new",
       "observation": [
         {
@@ -593,7 +593,7 @@
       "user": "Current user",
       "taskName": "FIXING KITCHEN OTTA INCLUDING ALL new one",
       "taskList": "FLOORING AND TILING",
-      "building": "SCT-BLD-H",
+      "building": "SCT-BLD-C",
       "sapUniqueId": "2122000772-806",
       "wbs2": "UNIT INTERNAL",
       "location": "SL07-A",
