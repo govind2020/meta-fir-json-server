@@ -458,6 +458,14 @@
       "role": "Quality HOD",
       "reporting":""
 
+    },
+    {
+      "id": "7",
+      "name": "Rom",
+      "password":"Pass@123",
+      "email": "rom@gmail.com",
+      "role": "Jr engineer",
+      "reporting":"Sr engineer"
     }
   ],
   "inspectionCarried": [
@@ -590,7 +598,7 @@
       "WBS2": "UNIT INTERNAL",
       "location": "SL09-B",
       "Status": "New",
-      "AssignTo": "user administrator",
+      "Assignto": "user administrator",
       "observation": [
         {
           "observationText": "Test "
@@ -613,7 +621,7 @@
       "WBS2": "UNIT INTERNAL",
       "location": "SL09-B",
       "status": "New",
-      "assignTo": "user administrator",
+      "assignto": "user administrator",
       "assignBy": "currentUser",
       "observation": [
         {
@@ -638,7 +646,7 @@
       "sapUniqueId": "2122000777-100",
       "wbs2": "UNIT INTERNAL",
       "location": "SL09-B",
-      "assignTo": "user administrator",
+      "assignto": "user administrator",
       "assignBy": "currentUser",
       "observation": [
         {
