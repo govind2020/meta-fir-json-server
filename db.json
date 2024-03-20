@@ -44,7 +44,7 @@
       "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
       "function": "CONSTRUCTION",
       "group": "ISBL-ALUFORM",
-      "building": "SCT-BLD-H",
+      "building": "SCT-BLD-B",
       "wbs0": "BUILDING-ALUFORM",
       "taskList": "FLOORING AND TILING",
       "wbs2": "OUTSIDE UNIT,COMMON AREA",
@@ -76,7 +76,7 @@
       "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES New",
       "function": "CONSTRUCTION",
       "group": "ISBL-ALUFORM",
-      "building": "SCT-BLD-H",
+      "building": "SCT-BLD-B",
       "wbs0": "BUILDING-ALUFORM",
       "taskList": "FLOORING AND TILING",
       "wbs2": "UNIT INTERNAL",
@@ -124,7 +124,7 @@
       "taskName": "DADO ( LABOUR) USING CERAMICTILES New",
       "function": "CONSTRUCTION",
       "group": "ISBL-ALUFORM",
-      "building": "SCT-BLD-H",
+      "building": "SCT-BLD-B",
       "wbs0": "BUILDING-ALUFORM",
       "taskList": "FLOORING AND TILING",
       "wbs2": "UNIT INTERNAL",
@@ -172,7 +172,7 @@
       "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES new one",
       "function": "CONSTRUCTION",
       "group": "ISBL-ALUFORM",
-      "building": "SCT-BLD-H",
+      "building": "SCT-BLD-B",
       "wbs0": "BUILDING-ALUFORM",
       "taskList": "FLOORING AND TILING",
       "wbs2": "OUTSIDE UNIT,COMMON AREA",
@@ -204,7 +204,7 @@
       "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
       "function": "CONSTRUCTION",
       "group": "ISBL-ALUFORM",
-      "building": "SCT-BLD-A",
+      "building": "SCT-BLD-C",
       "wbs0": "BUILDING-ALUFORM",
       "taskList": "FLOORING AND TILING",
       "wbs2": "UNIT INTERNAL",
@@ -252,7 +252,7 @@
       "taskName": "DADO ( LABOUR) USING CERAMICTILES",
       "function": "CONSTRUCTION",
       "group": "ISBL-ALUFORM",
-      "building": "SCT-BLD-A",
+      "building": "SCT-BLD-C",
       "wbs0": "BUILDING-ALUFORM",
       "taskList": "FLOORING AND TILING",
       "wbs2": "UNIT INTERNAL",
@@ -268,7 +268,7 @@
       "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES New",
       "function": "CONSTRUCTION",
       "group": "ISBL-ALUFORM",
-      "building": "SCT-BLD-A",
+      "building": "SCT-BLD-C",
       "wbs0": "BUILDING-ALUFORM",
       "taskList": "FLOORING AND TILING",
       "wbs2": "UNIT INTERNAL",
@@ -284,7 +284,7 @@
       "taskName": "FIXING KITCHEN OTTA INCLUDING ALL New",
       "function": "CONSTRUCTION",
       "group": "ISBL-ALUFORM",
-      "building": "SCT-BLD-A",
+      "building": "SCT-BLD-C",
       "wbs0": "BUILDING-ALUFORM",
       "taskList": "FLOORING AND TILING",
       "wbs2": "UNIT INTERNAL",
@@ -394,78 +394,114 @@
     {
       "id": "1",
       "name": "Tom",
-      "password":"Pass@123",
+      "password": "Pass@123",
       "email": "tom@gmail.com",
       "role": "Jr engineer",
-      "reporting":"Sr engineer"
+      "reporting": "Sr engineer"
     },
     {
       "id": "2",
       "name": "Som",
-      "password":"Pass@123",
+      "password": "Pass@123",
       "email": "som@gmail.com",
       "role": "Sr engineer",
-      "reporting":"Assistant PM"
+      "reporting": "Assistant PM"
     },
     {
       "id": "3",
       "name": "Tony",
       "email": "tony@gmail.com",
-      "password":"Pass@123",
+      "password": "Pass@123",
       "role": "Assistant PM",
-      "reporting":"PM"
-
+      "reporting": "PM"
     },
     {
       "id": "4",
       "name": "Stark",
       "email": "stark@gmail.com",
-      "password":"Pass@123",
+      "password": "Pass@123",
       "role": "PM",
-      "reporting":"PD"
-
+      "reporting": "PD"
     },
     {
       "id": "5",
       "name": "Bruce",
       "email": "bruce@gmail.com",
-      "password":"Pass@123",
+      "password": "Pass@123",
       "role": "PD",
-      "reporting":"OP Head"
+      "reporting": "OP Head"
     },
     {
       "id": "6",
       "name": "Matrix",
       "email": "matrix@gmail.com",
-      "password":"Pass@123",
+      "password": "Pass@123",
       "role": "OP Head",
-      "reporting":""
+      "reporting": ""
     },
     {
       "id": "7",
       "name": "Guard",
       "email": "guard@gmail.com",
-      "password":"Pass@123",
+      "password": "Pass@123",
       "role": "Quality Executive",
-      "reporting":"Quality HOD"
-
+      "reporting": "Quality HOD"
     },
     {
       "id": "6",
       "name": "Legacy",
-      "password":"Pass@123",
+      "password": "Pass@123",
       "email": "legacy@gmail.com",
       "role": "Quality HOD",
-      "reporting":""
-
+      "reporting": ""
     },
     {
       "id": "7",
       "name": "Rom",
-      "password":"Pass@123",
+      "password": "Pass@123",
       "email": "rom@gmail.com",
       "role": "Jr engineer",
-      "reporting":"Sr engineer"
+      "reporting": "Sr engineer"
+    },
+    {
+      "id": "9",
+      "name": "Ram",
+      "password": "Pass@123",
+      "email": "ram@gmail.com",
+      "role": "Jr engineer",
+      "reporting": "Sr engineer"
+    },
+    {
+      "id": "10",
+      "name": "Lakhan",
+      "password": "Pass@123",
+      "email": "lakhan@gmail.com",
+      "role": "Jr engineer",
+      "reporting": "Sr engineer"
+    },
+    {
+      "id": "11",
+      "name": "Samuel",
+      "password": "Pass@123",
+      "email": "samuel@gmail.com",
+      "role": "Jr engineer",
+      "reporting": "Sr engineer"
+    },
+    {
+      "id": "7",
+      "name": "Ramesh",
+      "password": "Pass@123",
+      "email": "rom@gmail.com",
+      "role": "Jr engineer",
+      "reporting": "Sr engineer"
+    },
+    {
+      "id": "8",
+      "name": "Dom",
+      "password": "Pass@123",
+      "email": "dom@gmail.com",
+      "role": "Sr engineer",
+      "reporting": "Assistant PM"
     }
   ],
   "inspectionCarried": [
