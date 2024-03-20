@@ -393,51 +393,71 @@
   "users": [
     {
       "id": "1",
-      "name": "user administrator",
-      "email": "useradministrator@gmail.com",
-      "role": "administrator"
+      "name": "Tom",
+      "password":"Pass@123",
+      "email": "tom@gmail.com",
+      "role": "Jr engineer",
+      "reporting":"Sr engineer"
     },
     {
       "id": "2",
-      "name": "user supervisor",
-      "email": "usersupervisor@gmail.com",
-      "role": "supervisor"
+      "name": "Som",
+      "password":"Pass@123",
+      "email": "som@gmail.com",
+      "role": "Sr engineer",
+      "reporting":"Assistant PM"
     },
     {
       "id": "3",
-      "name": "user engineer",
-      "email": "userengineer@gmail.com",
-      "role": "engineer"
+      "name": "Tony",
+      "email": "tony@gmail.com",
+      "password":"Pass@123",
+      "role": "Assistant PM",
+      "reporting":"PM"
+
     },
     {
       "id": "4",
-      "name": "user seniotengineer",
-      "email": "userseniorengineer@gmail.com",
-      "role": "senior engineer"
+      "name": "Stark",
+      "email": "stark@gmail.com",
+      "password":"Pass@123",
+      "role": "PM",
+      "reporting":"PD"
+
     },
     {
       "id": "5",
-      "name": "user labor head",
-      "email": "userlaborhead@gmail.com",
-      "role": "labor head"
+      "name": "Bruce",
+      "email": "bruce@gmail.com",
+      "password":"Pass@123",
+      "role": "PD",
+      "reporting":"OP Head"
     },
     {
       "id": "6",
-      "name": "user electrition",
-      "email": "userelectrition@gmail.com",
-      "role": "electrition"
+      "name": "Matrix",
+      "email": "matrix@gmail.com",
+      "password":"Pass@123",
+      "role": "OP Head",
+      "reporting":""
     },
     {
       "id": "7",
-      "name": "user painter",
-      "email": "userpainter@gmail.com",
-      "role": "painter"
+      "name": "Guard",
+      "email": "guard@gmail.com",
+      "password":"Pass@123",
+      "role": "Quality Executive",
+      "reporting":"Quality HOD"
+
     },
     {
       "id": "6",
-      "name": "user plumber",
-      "email": "userplumber@gmail.com",
-      "role": "plumber"
+      "name": "Legacy",
+      "password":"Pass@123",
+      "email": "legacy@gmail.com",
+      "role": "Quality HOD",
+      "reporting":""
+
     }
   ],
   "inspectionCarried": [
