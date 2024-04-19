@@ -388,7 +388,56 @@
       "planningRelevant": "Y",
       "status": "QC Okay",
       "project": ""
+    },
+    {
+      "id": "492",
+      "sapUniqueID": "2122000772-800",
+      "activityCode": "S000063",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-B",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING AND TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL07-A",
+      "planningRelevant": "Y",
+      "status": "New AND QC Fail",
+      "project": ""
+    },
+    {
+      "id": "592",
+      "sapUniqueID": "2122000772-800",
+      "activityCode": "S000063",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-C",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING AND TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL08-B",
+      "planningRelevant": "Y",
+      "status": "QC Okay",
+      "project": ""
+    },
+    {
+      "id": "502",
+      "sapUniqueID": "2122000772-800",
+      "activityCode": "S000063",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-C",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING AND TILING",
+      "wbs2": "OUTSIDE UNIT,COMMON AREA",
+      "location": "BLD-COMMON",
+      "planningRelevant": "Y",
+      "status": "QC Fail",
+      "project": ""
     }
+
   ],
   "users": [
     {
@@ -610,6 +659,91 @@
       ],
       "severity": "Major",
       "date": "2024-03-06T06:25:03.760Z"
+    },
+    {
+      "id": "1bv2",
+      "inspectionID": 1709706303760,
+      "user": "Current user",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL new one",
+      "taskList": "FLOORING AND TILING",
+      "building": "SCT-BLD-C",
+      "sapUniqueId": "2122000772-806",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "status": "new",
+      "observation": [
+        {
+          "observationText": "This is test "
+        }
+      ],
+      "photograph": [
+        {
+          "photoURLS": []
+        }
+      ],
+      "severity": "Major",
+      "date": "2024-03-06T06:25:03.760Z"
+    },
+    {
+      "id": "1bv2",
+      "inspectionID": 1709706303760,
+      "user": "Current user",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL new one",
+      "taskList": "FLOORING AND TILING",
+      "building": "SCT-BLD-C",
+      "sapUniqueId": "2122000772-806",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL07-B",
+      "status": "new",
+      "observation": [
+        {
+          "observationText": "This is test "
+        }
+      ],
+      "photograph": [
+        {
+          "photoURLS": []
+        }
+      ],
+      "severity": "Major",
+      "date": "2024-03-06T06:25:03.760Z"
+    },
+    {
+      "inspectionID": 1709670795319,
+      "user": "Current user",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL",
+      "taskList": "FLOORING AND TILING",
+      "building": "SCT-BLD-C",
+      "sapUniqueId": "2122000772-800",
+      "wbs2": "OUTSIDE UNIT,COMMON AREA",
+      "location": "BLD-COMMON",
+      "status": "QC Fail",
+      "observation": [
+        {
+          "observationText": "a;ksdjf "
+        },
+        {}
+      ],
+      "photograph": [
+        {
+          "photoURLS": [
+            "blob:http://localhost:3000/77a27eca-82ec-4b1f-908b-f86056aaaf98",
+            "blob:http://localhost:3000/648f320f-357c-4f92-b30e-10a30f8d4641",
+            "blob:http://localhost:3000/41670c44-4020-45e1-bc23-b53a5a39724d",
+            "blob:http://localhost:3000/0bd741c4-4051-4820-8619-398f043a5b8b",
+            "blob:http://localhost:3000/099fc638-36e5-4ee9-bc0a-8d6c33dd8e0e",
+            "blob:http://localhost:3000/c473c0e9-fc71-446e-b00f-64f440e7447e"
+          ]
+        },
+        {
+          "photoURLS": [
+            "https://res.cloudinary.com/dazf69tcg/image/upload/v1709670887/nmom2ew6rwzbptjkwzma.png",
+            "https://res.cloudinary.com/dazf69tcg/image/upload/v1709670887/pw3nrjk31f7dsbhtncp8.png"
+          ]
+        }
+      ],
+      "severity": "High",
+      "date": "2024-03-05T20:33:15.379Z"
     }
   ],
   "AssignSiteVisit": [
@@ -683,6 +817,62 @@
       "wbs2": "UNIT INTERNAL",
       "location": "SL09-B",
       "assignto": "user administrator",
+      "assignBy": "currentUser",
+      "observation": [
+        {
+          "observationText": "Testatlkn"
+        }
+      ],
+      "photograph": [
+        {
+          "photoURLS": [
+            "blob:http://localhost:3000/0b0949e2-e14b-418b-994b-3a2ccf689e34",
+            "blob:http://localhost:3000/3b75244d-6ba2-4dfb-a343-b387135051b8"
+          ]
+        }
+      ],
+      "date": "2024-03-06T07:20:33.549Z"
+    },
+    {
+      "id": "dc8e7",
+      "inspectionID": 1709709633249,
+      "user": "Current user",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
+      "taskList": "FLOORING AND TILING",
+      "building": "SCT-BLD-B",
+      "sapUniqueId": "2122000777-100",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL07-A",
+      "assignto": "user administrator",
+      "status": "New AND QC Fail",
+      "assignBy": "currentUser",
+      "observation": [
+        {
+          "observationText": "Testatlkn"
+        }
+      ],
+      "photograph": [
+        {
+          "photoURLS": [
+            "blob:http://localhost:3000/0b0949e2-e14b-418b-994b-3a2ccf689e34",
+            "blob:http://localhost:3000/3b75244d-6ba2-4dfb-a343-b387135051b8"
+          ]
+        }
+      ],
+      "date": "2024-03-06T07:20:33.549Z"
+    },
+    {
+      "id": "dcfe7",
+      "inspectionID": 1707809633249,
+      "user": "Current user",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
+      "taskList": "FLOORING AND TILING",
+      "building": "SCT-BLD-C",
+      "sapUniqueId": "2122000777-100",
+      "wbs2": "OUTSIDE UNIT,COMMON AREA",
+      "location": "SL07-A",
+      "assignto": "user administrator",
+      "status": "QC Fail",
       "assignBy": "currentUser",
       "observation": [
         {
