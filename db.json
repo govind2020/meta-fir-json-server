@@ -436,7 +436,24 @@
       "planningRelevant": "Y",
       "status": "QC Fail",
       "project": ""
+    },
+    {
+      "id": "505",
+      "sapUniqueID": "2122000772-800",
+      "activityCode": "S000063",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-B",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING AND TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-1",
+      "planningRelevant": "Y",
+      "status": "New",
+      "project": ""
     }
+
 
   ],
   "users": [
