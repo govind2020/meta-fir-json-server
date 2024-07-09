@@ -1444,84 +1444,126 @@
       }
     }
   ],
-  "gymTrainer" :[
+  "gymTrainer": [
     {
-    "id": 2,
-    "attributes": {
-      "name": "Sai",
-      "trainerId": 1,
-      "location": "Pune",
-      "gymName": "Passion Fitness GYM",
-      "age": 24,
-      "createdAt": "2024-06-30T10:29:36.588Z",
-      "updatedAt": "2024-06-30T10:29:51.558Z",
-      "publishedAt": "2024-06-30T10:29:51.547Z"
+      "id": 2,
+      "attributes": {
+        "name": "Sai",
+        "trainerId": 1,
+        "location": "Pune",
+        "gymName": "Passion Fitness GYM",
+        "age": 24,
+        "trainerSkillList": [
+          {
+            "id": 11,
+            "listName": "Trainer",
+            "listId": 1
+          }
+        ],
+        "createdAt": "2024-06-30T10:29:36.588Z",
+        "updatedAt": "2024-06-30T10:29:51.558Z",
+        "publishedAt": "2024-06-30T10:29:51.547Z"
+      }
+    },
+    {
+      "id": 1,
+      "attributes": {
+        "name": "Hari ",
+        "trainerId": 1,
+        "location": "Pune",
+        "gymName": "Passion Fitness GYM",
+        "age": 24,
+        "trainerSkillList": [
+          {
+            "id": 11,
+            "listName": "Trainer",
+            "listId": 1
+          }
+        ],
+        "createdAt": "2024-06-30T10:29:30.940Z",
+        "updatedAt": "2024-06-30T10:30:21.473Z",
+        "publishedAt": "2024-06-30T10:30:21.470Z"
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "name": "Ram",
+        "trainerId": 4,
+        "location": "Pune",
+        "gymName": "Passion Fitness GYM",
+        "age": 24,
+        "trainerSkillList": [
+          {
+            "id": 11,
+            "listName": "Trainer",
+            "listId": 1
+          }
+        ],
+        "createdAt": "2024-06-30T10:30:25.566Z",
+        "updatedAt": "2024-06-30T10:30:53.293Z",
+        "publishedAt": "2024-06-30T10:30:53.286Z"
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "name": "Rimi",
+        "trainerId": 5,
+        "location": "Pune",
+        "gymName": "Passion Fitness GYM",
+        "age": 24,
+        "trainerSkillList": [
+          {
+            "id": 11,
+            "listName": "Trainer",
+            "listId": 1
+          }
+        ],
+        "createdAt": "2024-06-30T10:30:57.425Z",
+        "updatedAt": "2024-06-30T10:31:19.692Z",
+        "publishedAt": "2024-06-30T10:31:19.689Z"
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "name": "sammy",
+        "trainerId": 6,
+        "location": "Pune",
+        "gymName": "Passion Fitness GYM",
+        "age": 24,
+        "trainerSkillList": [
+          {
+            "id": 11,
+            "listName": "Trainer",
+            "listId": 1
+          }
+        ],
+        "createdAt": "2024-06-30T10:31:24.432Z",
+        "updatedAt": "2024-06-30T10:31:52.838Z",
+        "publishedAt": "2024-06-30T10:31:52.834Z"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "name": "Prasad",
+        "trainerId": 2,
+        "location": "Pune",
+        "gymName": "Passion Fitness GYM",
+        "age": 24,
+        "trainerSkillList": [
+          {
+            "id": 11,
+            "listName": "Trainer",
+            "listId": 1
+          }
+        ],
+        "createdAt": "2024-06-30T10:29:56.413Z",
+        "updatedAt": "2024-06-30T10:32:03.396Z",
+        "publishedAt": "2024-06-30T10:30:14.160Z"
+      }
     }
-  },
-  {
-    "id": 1,
-    "attributes": {
-      "name": "Hari ",
-      "trainerId": 1,
-      "location": "Pune",
-      "gymName": "Passion Fitness GYM",
-      "age": 24,
-      "createdAt": "2024-06-30T10:29:30.940Z",
-      "updatedAt": "2024-06-30T10:30:21.473Z",
-      "publishedAt": "2024-06-30T10:30:21.470Z"
-    }
-  },
-  {
-    "id": 4,
-    "attributes": {
-      "name": "Ram",
-      "trainerId": 4,
-      "location": "Pune",
-      "gymName": "Passion Fitness GYM",
-      "age": 24,
-      "createdAt": "2024-06-30T10:30:25.566Z",
-      "updatedAt": "2024-06-30T10:30:53.293Z",
-      "publishedAt": "2024-06-30T10:30:53.286Z"
-    }
-  },
-  {
-    "id": 5,
-    "attributes": {
-      "name": "Rimi",
-      "trainerId": 5,
-      "location": "Pune",
-      "gymName": "Passion Fitness GYM",
-      "age": 24,
-      "createdAt": "2024-06-30T10:30:57.425Z",
-      "updatedAt": "2024-06-30T10:31:19.692Z",
-      "publishedAt": "2024-06-30T10:31:19.689Z"
-    }
-  },
-  {
-    "id": 6,
-    "attributes": {
-      "name": "sammy",
-      "trainerId": 6,
-      "location": "Pune",
-      "gymName": "Passion Fitness GYM",
-      "age": 24,
-      "createdAt": "2024-06-30T10:31:24.432Z",
-      "updatedAt": "2024-06-30T10:31:52.838Z",
-      "publishedAt": "2024-06-30T10:31:52.834Z"
-    }
-  },
-  {
-    "id": 3,
-    "attributes": {
-      "name": "Prasad",
-      "trainerId": 2,
-      "location": "Pune",
-      "gymName": "Passion Fitness GYM",
-      "age": 24,
-      "createdAt": "2024-06-30T10:29:56.413Z",
-      "updatedAt": "2024-06-30T10:32:03.396Z",
-      "publishedAt": "2024-06-30T10:30:14.160Z"
-    }
-  }
   ]
 }
