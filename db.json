@@ -1,5 +1,5 @@
 {
-  "result": [
+  "fitness": [
     {
       "id": "0087",
       "slug": "Rohit 44a1",
@@ -119,476 +119,6 @@
             "id": 9,
             "name": "Car Parking"
           }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Modern GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Aundh Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284468/large_meta_Data_Pic_Five_de15041f1b.jpg",
-        "facility": [
-          {
-            "id": 18,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 22,
-            "name": "Steam"
-          },
-          {
-            "id": 19,
-            "name": "Sauna"
-          },
-          {
-            "id": 21,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 20,
-            "name": "Car Parking"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Passion Fitness GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284469/large_meta_Data_Pic_Two_56237b43a1.jpg",
-        "facility": [
-          {
-            "id": 32,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 31,
-            "name": "Steam"
-          },
-          {
-            "id": 33,
-            "name": "Sauna"
-          },
-          {
-            "id": 30,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 29,
-            "name": "Car Parking"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Spacious GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284467/large_meta_Data_Pic_One_0bdbedf15b.jpg",
-        "facility": [
-          {
-            "id": 42,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 43,
-            "name": "Steam"
-          },
-          {
-            "id": 41,
-            "name": "Sauna"
-          },
-          {
-            "id": 44,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 40,
-            "name": "Car Parking"
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "name": "New Era GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284465/large_meta_Data_Pic_Three_b46afb4295.jpg",
-        "facility": [
-          {
-            "id": 51,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 52,
-            "name": "Steam"
-          },
-          {
-            "id": 54,
-            "name": "Sauna"
-          },
-          {
-            "id": 53,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 55,
-            "name": "Car Parking"
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "name": "test gym",
-        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available. ",
-        "state": "Maharashtra,",
-        "city": "Nashik",
-        "deal": true,
-        "location": "Nashik",
-        "pincode": "412209",
-        "rating": "4.5",
-        "price": 30000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284467/large_meta_Data_Pic_One_0bdbedf15b.jpg",
-        "facility": [
-          {
-            "id": 70,
-            "name": "Sauna"
-          },
-          {
-            "id": 71,
-            "name": "Steam"
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "name": "Happy GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1720072603/large_Banner_f75803a6ab.png",
-        "facility": [
-          {
-            "id": 66,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 65,
-            "name": "Steam"
-          },
-          {
-            "id": 64,
-            "name": "Sauna"
-          },
-          {
-            "id": 62,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 63,
-            "name": "Car Parking"
-          }
-        ]
-      }
-    ],
-    [
-      {
-        "id": 1,
-        "name": "Hillside GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Aundh Pune",
-        "pincode": "411001",
-        "rating": "3.4",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284465/large_meta_Data_Pic_Three_b46afb4295.jpg",
-        "facility": [
-          {
-            "id": 7,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 11,
-            "name": "Steam"
-          },
-          {
-            "id": 8,
-            "name": "Sauna"
-          },
-          {
-            "id": 10,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 9,
-            "name": "Car Parking"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Modern GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Aundh Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284468/large_meta_Data_Pic_Five_de15041f1b.jpg",
-        "facility": [
-          {
-            "id": 18,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 22,
-            "name": "Steam"
-          },
-          {
-            "id": 19,
-            "name": "Sauna"
-          },
-          {
-            "id": 21,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 20,
-            "name": "Car Parking"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Passion Fitness GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284469/large_meta_Data_Pic_Two_56237b43a1.jpg",
-        "facility": [
-          {
-            "id": 32,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 31,
-            "name": "Steam"
-          },
-          {
-            "id": 33,
-            "name": "Sauna"
-          },
-          {
-            "id": 30,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 29,
-            "name": "Car Parking"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Spacious GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284467/large_meta_Data_Pic_One_0bdbedf15b.jpg",
-        "facility": [
-          {
-            "id": 42,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 43,
-            "name": "Steam"
-          },
-          {
-            "id": 41,
-            "name": "Sauna"
-          },
-          {
-            "id": 44,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 40,
-            "name": "Car Parking"
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "name": "New Era GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284465/large_meta_Data_Pic_Three_b46afb4295.jpg",
-        "facility": [
-          {
-            "id": 51,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 52,
-            "name": "Steam"
-          },
-          {
-            "id": 54,
-            "name": "Sauna"
-          },
-          {
-            "id": 53,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 55,
-            "name": "Car Parking"
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "name": "test gym",
-        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available. ",
-        "state": "Maharashtra,",
-        "city": "Nashik",
-        "deal": true,
-        "location": "Nashik",
-        "pincode": "412209",
-        "rating": "4.5",
-        "price": 30000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284467/large_meta_Data_Pic_One_0bdbedf15b.jpg",
-        "facility": [
-          {
-            "id": 70,
-            "name": "Sauna"
-          },
-          {
-            "id": 71,
-            "name": "Steam"
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "name": "Happy GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1720072603/large_Banner_f75803a6ab.png",
-        "facility": [
-          {
-            "id": 66,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 65,
-            "name": "Steam"
-          },
-          {
-            "id": 64,
-            "name": "Sauna"
-          },
-          {
-            "id": 62,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 63,
-            "name": "Car Parking"
-          }
-        ]
-      }
-    ],
-    [
-      {
-        "id": 1,
-        "name": "Hillside GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Aundh Pune",
-        "pincode": "411001",
-        "rating": "3.4",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284465/large_meta_Data_Pic_Three_b46afb4295.jpg",
-        "facility": [
-          {
-            "id": 7,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 11,
-            "name": "Steam"
-          },
-          {
-            "id": 8,
-            "name": "Sauna"
-          },
-          {
-            "id": 10,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 9,
-            "name": "Car Parking"
-          }
         ],
         "cateogry": [
           {
@@ -614,6 +144,40 @@
           {
             "id": 6,
             "name": "Dance"
+          }
+        ],
+        "lat": null,
+        "long": null,
+        "gymTrainer": [
+          {
+            "id": 1,
+            "name": "Sai",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 24,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Trainer",
+                "listId": 1
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Rimi",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 23,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Yoga Trainer",
+                "listId": 1
+              }
+            ]
           }
         ]
       },
@@ -676,410 +240,39 @@
             "id": 17,
             "name": "Dance"
           }
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Passion Fitness GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284469/large_meta_Data_Pic_Two_56237b43a1.jpg",
-        "facility": [
-          {
-            "id": 32,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 31,
-            "name": "Steam"
-          },
-          {
-            "id": 33,
-            "name": "Sauna"
-          },
-          {
-            "id": 30,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 29,
-            "name": "Car Parking"
-          }
         ],
-        "cateogry": [
+        "lat": null,
+        "long": null,
+        "gymTrainer": [
           {
-            "id": 23,
-            "name": "CrossFit"
-          },
-          {
-            "id": 24,
-            "name": "Strength training"
-          },
-          {
-            "id": 25,
-            "name": "Fitness center"
-          },
-          {
-            "id": 26,
-            "name": "Yoga"
-          },
-          {
-            "id": 27,
-            "name": "Cardiovascular disease"
-          },
-          {
-            "id": 28,
-            "name": "Dance"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Spacious GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284467/large_meta_Data_Pic_One_0bdbedf15b.jpg",
-        "facility": [
-          {
-            "id": 42,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 43,
-            "name": "Steam"
-          },
-          {
-            "id": 41,
-            "name": "Sauna"
-          },
-          {
-            "id": 44,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 40,
-            "name": "Car Parking"
-          }
-        ],
-        "cateogry": [
-          {
-            "id": 34,
-            "name": "CrossFit"
-          },
-          {
-            "id": 35,
-            "name": "Strength training"
-          },
-          {
-            "id": 36,
-            "name": "Fitness center"
-          },
-          {
-            "id": 37,
-            "name": "Yoga"
-          },
-          {
-            "id": 38,
-            "name": "Cardiovascular disease"
-          },
-          {
-            "id": 39,
-            "name": "Dance"
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "name": "New Era GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284465/large_meta_Data_Pic_Three_b46afb4295.jpg",
-        "facility": [
-          {
-            "id": 51,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 52,
-            "name": "Steam"
-          },
-          {
-            "id": 54,
-            "name": "Sauna"
-          },
-          {
-            "id": 53,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 55,
-            "name": "Car Parking"
-          }
-        ],
-        "cateogry": [
-          {
-            "id": 45,
-            "name": "CrossFit"
-          },
-          {
-            "id": 46,
-            "name": "Strength training"
-          },
-          {
-            "id": 48,
-            "name": "Fitness center"
-          },
-          {
-            "id": 47,
-            "name": "Yoga"
-          },
-          {
-            "id": 49,
-            "name": "Cardiovascular disease"
-          },
-          {
-            "id": 50,
-            "name": "Dance"
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "name": "test gym",
-        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available. ",
-        "state": "Maharashtra,",
-        "city": "Nashik",
-        "deal": true,
-        "location": "Nashik",
-        "pincode": "412209",
-        "rating": "4.5",
-        "price": 30000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284467/large_meta_Data_Pic_One_0bdbedf15b.jpg",
-        "facility": [
-          {
-            "id": 70,
-            "name": "Sauna"
-          },
-          {
-            "id": 71,
-            "name": "Steam"
-          }
-        ],
-        "cateogry": [
-          {
-            "id": 68,
-            "name": "Strength training"
-          },
-          {
-            "id": 69,
-            "name": "CrossFit"
-          },
-          {
-            "id": 67,
-            "name": null
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "name": "Happy GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1720072603/large_Banner_f75803a6ab.png",
-        "facility": [
-          {
-            "id": 66,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 65,
-            "name": "Steam"
-          },
-          {
-            "id": 64,
-            "name": "Sauna"
-          },
-          {
-            "id": 62,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 63,
-            "name": "Car Parking"
-          }
-        ],
-        "cateogry": [
-          {
-            "id": 57,
-            "name": "CrossFit"
-          },
-          {
-            "id": 56,
-            "name": "Strength training"
-          },
-          {
-            "id": 59,
-            "name": "Fitness center"
-          },
-          {
-            "id": 58,
-            "name": "Yoga"
-          },
-          {
-            "id": 60,
-            "name": "Cardiovascular disease"
-          },
-          {
-            "id": 61,
-            "name": "Dance"
-          }
-        ]
-      }
-    ],
-    [
-      {
-        "id": 1,
-        "name": "Hillside GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Aundh Pune",
-        "pincode": "411001",
-        "rating": "3.4",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284465/large_meta_Data_Pic_Three_b46afb4295.jpg",
-        "facility": [
-          {
-            "id": 7,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 11,
-            "name": "Steam"
-          },
-          {
-            "id": 8,
-            "name": "Sauna"
-          },
-          {
-            "id": 10,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 9,
-            "name": "Car Parking"
-          }
-        ],
-        "cateogry": [
-          {
-            "id": 3,
-            "name": "CrossFit"
+            "id": 1,
+            "name": "Sai",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 24,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Trainer",
+                "listId": 1
+              }
+            ]
           },
           {
             "id": 1,
-            "name": "Strength training"
-          },
-          {
-            "id": 4,
-            "name": "Fitness center"
-          },
-          {
-            "id": 2,
-            "name": "Yoga"
-          },
-          {
-            "id": 5,
-            "name": "Cardiovascular disease"
-          },
-          {
-            "id": 6,
-            "name": "Dance"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Modern GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Aundh Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1718284468/large_meta_Data_Pic_Five_de15041f1b.jpg",
-        "facility": [
-          {
-            "id": 18,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 22,
-            "name": "Steam"
-          },
-          {
-            "id": 19,
-            "name": "Sauna"
-          },
-          {
-            "id": 21,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 20,
-            "name": "Car Parking"
-          }
-        ],
-        "cateogry": [
-          {
-            "id": 13,
-            "name": "CrossFit"
-          },
-          {
-            "id": 12,
-            "name": "Strength training"
-          },
-          {
-            "id": 15,
-            "name": "Fitness center"
-          },
-          {
-            "id": 14,
-            "name": "Yoga"
-          },
-          {
-            "id": 16,
-            "name": "Cardiovascular disease"
-          },
-          {
-            "id": 17,
-            "name": "Dance"
+            "name": "Rimi",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 23,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Yoga Trainer",
+                "listId": 1
+              }
+            ]
           }
         ]
       },
@@ -1142,6 +335,40 @@
             "id": 28,
             "name": "Dance"
           }
+        ],
+        "lat": null,
+        "long": null,
+        "gymTrainer": [
+          {
+            "id": 1,
+            "name": "Sai",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 24,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Trainer",
+                "listId": 1
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Rimi",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 23,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Yoga Trainer",
+                "listId": 1
+              }
+            ]
+          }
         ]
       },
       {
@@ -1202,6 +429,40 @@
           {
             "id": 39,
             "name": "Dance"
+          }
+        ],
+        "lat": null,
+        "long": null,
+        "gymTrainer": [
+          {
+            "id": 1,
+            "name": "Sai",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 24,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Trainer",
+                "listId": 1
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Rimi",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 23,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Yoga Trainer",
+                "listId": 1
+              }
+            ]
           }
         ]
       },
@@ -1264,6 +525,40 @@
             "id": 50,
             "name": "Dance"
           }
+        ],
+        "lat": null,
+        "long": null,
+        "gymTrainer": [
+          {
+            "id": 1,
+            "name": "Sai",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 24,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Trainer",
+                "listId": 1
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Rimi",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 23,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Yoga Trainer",
+                "listId": 1
+              }
+            ]
+          }
         ]
       },
       {
@@ -1301,66 +596,39 @@
             "id": 67,
             "name": null
           }
-        ]
-      },
-      {
-        "id": 6,
-        "name": "Happy GYM",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius",
-        "state": "Maharashtra,",
-        "city": "Pune",
-        "deal": true,
-        "location": "Banner Pune",
-        "pincode": "411001",
-        "rating": "4.5",
-        "price": 22000,
-        "image": "https://res.cloudinary.com/daz7nxiir/image/upload/v1720072603/large_Banner_f75803a6ab.png",
-        "facility": [
-          {
-            "id": 66,
-            "name": "Digital Fitness Platform "
-          },
-          {
-            "id": 65,
-            "name": "Steam"
-          },
-          {
-            "id": 64,
-            "name": "Sauna"
-          },
-          {
-            "id": 62,
-            "name": " Spa Facilities "
-          },
-          {
-            "id": 63,
-            "name": "Car Parking"
-          }
         ],
-        "cateogry": [
+        "lat": null,
+        "long": null,
+        "gymTrainer": [
           {
-            "id": 57,
-            "name": "CrossFit"
+            "id": 1,
+            "name": "Sai",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 24,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Trainer",
+                "listId": 1
+              }
+            ]
           },
           {
-            "id": 56,
-            "name": "Strength training"
-          },
-          {
-            "id": 59,
-            "name": "Fitness center"
-          },
-          {
-            "id": 58,
-            "name": "Yoga"
-          },
-          {
-            "id": 60,
-            "name": "Cardiovascular disease"
-          },
-          {
-            "id": 61,
-            "name": "Dance"
+            "id": 1,
+            "name": "Rimi",
+            "trainerId": 1,
+            "location": "Pune",
+            "gymName": "Passion Fitness GYM",
+            "age": 23,
+            "trainerSkillList": [
+              {
+                "id": 11,
+                "listName": "Yoga Trainer",
+                "listId": 1
+              }
+            ]
           }
         ]
       }
@@ -1369,78 +637,44 @@
   "UserProfile": [
     {
       "id": 1,
-      "attributes": {
-        "username": "murtaza",
-        "email": "khopoliwala52@gmail.com",
-        "userid": "kp_a13c9a8110fb41d287d97bb6fb08369f",
-        "Gender": "M",
-        "Age": 28,
-        "Height": 153,
-        "Weight": 56,
-        "FitnessGoal": "Burn Fat",
-        "ActiveNumber": 4,
-        "Dailymeal": 0,
-        "Nutrition": "omnivore",
-        "createdAt": "2024-06-26T12:02:25.967Z",
-        "updatedAt": "2024-06-26T12:02:25.967Z",
-        "publishedAt": "2024-06-26T12:02:25.721Z"
+      "data": {
+        "userName": "Govind Lowanshi",
+        "email": "govind@setoo.co",
+        "phone": 8087746131,
+        "gender": "M",
+        "age": "24",
+        "height": "173",
+        "weight": "76",
+        "fitnessGoal": "burn_fats",
+        "activeWeek": 4,
+        "nutrition": "",
+        "dailyMeal": 0,
+        "lat": null,
+        "long": null,
+        "createdAt": "2024-06-30T10:28:23.159Z",
+        "updatedAt": "2024-06-30T10:28:23.159Z",
+        "publishedAt": "2024-06-30T10:28:23.159Z"
       }
     },
     {
       "id": 2,
-      "attributes": {
-        "username": "Vrushali",
-        "email": "vrushali@setoo.co",
-        "userid": "kp_21be8e4b36d845c7b3ea6d7a4b1ac701",
-        "Gender": "F",
-        "Age": 20,
-        "Height": 153,
-        "Weight": 46,
-        "FitnessGoal": "Active ",
-        "ActiveNumber": 3,
-        "Dailymeal": 3,
-        "Nutrition": "Vegan",
-        "createdAt": "2024-07-01T06:24:00.664Z",
-        "updatedAt": "2024-07-01T06:24:00.664Z",
-        "publishedAt": "2024-07-01T06:24:00.645Z"
-      }
-    },
-    {
-      "id": 3,
-      "attributes": {
-        "username": "Vrushali",
-        "email": "vrushali@setoo.co",
-        "userid": "kp_21be8e4b36d845c7b3ea6d7a4b1ac701",
-        "Gender": "M",
-        "Age": 20,
-        "Height": 123,
-        "Weight": 86,
-        "FitnessGoal": "cardiovascular",
-        "ActiveNumber": 2,
-        "Dailymeal": 0,
-        "Nutrition": "Vegetrain",
-        "createdAt": "2024-07-01T06:24:00.665Z",
-        "updatedAt": "2024-07-01T06:24:00.665Z",
-        "publishedAt": "2024-07-01T06:24:00.658Z"
-      }
-    },
-    {
-      "id": 4,
-      "attributes": {
-        "username": "Govind Lowanshi",
-        "email": "govind@setoo.co",
-        "userid": "kp_573145fce5fd4ce1a33cfa58581389e6",
-        "Gender": "M",
-        "Age": 28,
-        "Height": 153,
-        "Weight": 56,
-        "FitnessGoal": "cardiovascular",
-        "ActiveNumber": 4,
-        "Dailymeal": 0,
-        "Nutrition": "Vegan",
-        "createdAt": "2024-06-25T18:28:30.911Z",
-        "updatedAt": "2024-07-09T10:59:18.276Z",
-        "publishedAt": "2024-06-25T18:28:30.462Z"
+      "data": {
+        "userName": "Murtaza",
+        "email": "murtaza@setoo.co",
+        "phone": 9403825153,
+        "gender": "M",
+        "age": "22",
+        "height": "163",
+        "weight": "90",
+        "fitnessGoal": "burn_fats",
+        "activeWeek": 4,
+        "nutrition": "",
+        "dailyMeal": 0,
+        "lat": null,
+        "long": null,
+        "createdAt": "2024-05-10T10:28:23.159Z",
+        "updatedAt": "2024-05-10T10:28:23.159Z",
+        "publishedAt": "2024-05-10T10:28:23.159Z"
       }
     }
   ],
@@ -1452,6 +686,7 @@
         "trainerId": 1,
         "location": "Pune",
         "gymName": "Passion Fitness GYM",
+        "gymId": 1,
         "age": 24,
         "trainerSkillList": [
           {
@@ -1460,6 +695,112 @@
             "listId": 1
           }
         ],
+        "trainerDietPlan": [
+          {
+            "id": 1,
+            "nutrition": [
+              {
+                "id": 1,
+                "nutrition": "vegetarian",
+                "food": [
+                  "Dairy Products: Including milk, cheese, and yogurt, often consumed by lacto-vegetarians.",
+                  "Legumes: Such as lentils, chickpeas, and black beans, which are rich in protein and fiber.",
+                  "Tofu: A versatile source of protein made from soybeans.",
+                  "Quinoa: A complete protein and a good source of fiber and various nutrients.",
+                  "Nuts and Seeds: Including almonds, walnuts, chia seeds, and flaxseeds, which provide healthy fats and protein.",
+                  "Fruits and Vegetables: A wide variety of fresh produce, providing essential vitamins, minerals, and antioxidants.",
+                  "Whole Grains: Such as brown rice, oats, and barley, offering fiber and nutrients.",
+                  "Plant-Based Oils: Like olive oil and coconut oil, used for cooking and dressings.",
+                  "Plant-Based Milk: Including almond milk, soy milk, and oat milk, as alternatives to dairy milk."
+                ]
+              },
+              {
+                "id": 2,
+                "nutrition": "vegan",
+                "food": [
+                  "Avocados: A rich source of healthy fats and various nutrients.",
+                  "Coconut Oil: Used for cooking and baking in place of animal-based fats.",
+                  "Nuts and Nut Butters: Providing protein, healthy fats, and essential nutrients.",
+                  "Seeds: Such as chia seeds, flaxseeds, and hemp seeds, offering protein and omega-3 fatty acids.",
+                  "Non-Dairy Yogurt: Made from coconut, almond, or soy milk, as a dairy-free alternative.",
+                  "Nutritional Yeast: Often used to add a cheesy flavor to dishes and as a source of vitamin B12.",
+                  "Tempeh: A fermented soy product, rich in protein and probiotics.",
+                  "Plant-Based Protein Powders: Derived from sources like pea, hemp, or rice, for smoothies and shakes.",
+                  "Whole Grains: Including quinoa, brown rice, and whole wheat, for fiber and nutrients.",
+                  "Fruits and Vegetables: A diverse range of fresh produce for essential nutrients and antioxidants."
+                ]
+              },
+              {
+                "id": 3,
+                "nutrition": "Non - vegetarian",
+                "food": [
+                  "Lean Meats: Such as chicken breast, turkey, and lean cuts of beef or pork.",
+                  "Fish and Seafood: Including salmon, tuna, shrimp, and mussels, for omega-3 fatty acids and protein.",
+                  "Eggs: A versatile source of protein and nutrients.",
+                  "Dairy Products: Such as milk, cheese, and yogurt, providing calcium and protein.",
+                  "Whole Grains: Including whole wheat bread, brown rice, and quinoa, for fiber and nutrients.",
+                  "Fruits and Vegetables: A wide variety of fresh produce for essential vitamins, minerals, and antioxidants.",
+                  "Nuts and Seeds: Providing healthy fats, protein, and essential nutrients.",
+                  "Legumes: Such as lentils, black beans, and chickpeas, for plant-based protein and fiber.",
+                  "Healthy Oils: Like olive oil and avocado oil, for cooking and dressings.",
+                  "Herbs and Spices: Used to enhance flavor and add variety to dishes."
+                ]
+              }
+            ]
+          }
+        ],
+        "trainerExercise": [
+          {
+            "id": 1,
+            "name": "Push-ups",
+            "sets": 10,
+            "repetitions": 10,
+            "duration": 15,
+            "day": "Monday"
+          },
+          {
+            "id": 2,
+            "name": "Squats",
+            "sets": 8,
+            "repetitions": 12,
+            "duration": 20,
+            "day": "Tuesday"
+          },
+          {
+            "id": 3,
+            "name": "Jumping jacks",
+            "sets": 5,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Wednesday"
+          },
+          {
+            "id": 4,
+            "name": "Burpees",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Thrusday"
+          },
+          {
+            "id": 5,
+            "name": "Push-ups",
+            "sets": 2,
+            "repetitions": 2,
+            "duration": 20,
+            "day": "Friday"
+          },
+          {
+            "id": 6,
+            "name": "Bodyweight squats",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Saturday"
+          }
+        ],
+        "lat": null,
+        "long": null,
         "createdAt": "2024-06-30T10:29:36.588Z",
         "updatedAt": "2024-06-30T10:29:51.558Z",
         "publishedAt": "2024-06-30T10:29:51.547Z"
@@ -1468,10 +809,11 @@
     {
       "id": 1,
       "attributes": {
-        "name": "Hari ",
+        "name": "Hari",
         "trainerId": 1,
         "location": "Pune",
         "gymName": "Passion Fitness GYM",
+        "gymId": 2,
         "age": 24,
         "trainerSkillList": [
           {
@@ -1480,6 +822,112 @@
             "listId": 1
           }
         ],
+        "trainerDietPlan": [
+          {
+            "id": 1,
+            "nutrition": [
+              {
+                "id": 1,
+                "nutrition": "vegetarian",
+                "food": [
+                  "Dairy Products: Including milk, cheese, and yogurt, often consumed by lacto-vegetarians.",
+                  "Legumes: Such as lentils, chickpeas, and black beans, which are rich in protein and fiber.",
+                  "Tofu: A versatile source of protein made from soybeans.",
+                  "Quinoa: A complete protein and a good source of fiber and various nutrients.",
+                  "Nuts and Seeds: Including almonds, walnuts, chia seeds, and flaxseeds, which provide healthy fats and protein.",
+                  "Fruits and Vegetables: A wide variety of fresh produce, providing essential vitamins, minerals, and antioxidants.",
+                  "Whole Grains: Such as brown rice, oats, and barley, offering fiber and nutrients.",
+                  "Plant-Based Oils: Like olive oil and coconut oil, used for cooking and dressings.",
+                  "Plant-Based Milk: Including almond milk, soy milk, and oat milk, as alternatives to dairy milk."
+                ]
+              },
+              {
+                "id": 2,
+                "nutrition": "vegan",
+                "food": [
+                  "Avocados: A rich source of healthy fats and various nutrients.",
+                  "Coconut Oil: Used for cooking and baking in place of animal-based fats.",
+                  "Nuts and Nut Butters: Providing protein, healthy fats, and essential nutrients.",
+                  "Seeds: Such as chia seeds, flaxseeds, and hemp seeds, offering protein and omega-3 fatty acids.",
+                  "Non-Dairy Yogurt: Made from coconut, almond, or soy milk, as a dairy-free alternative.",
+                  "Nutritional Yeast: Often used to add a cheesy flavor to dishes and as a source of vitamin B12.",
+                  "Tempeh: A fermented soy product, rich in protein and probiotics.",
+                  "Plant-Based Protein Powders: Derived from sources like pea, hemp, or rice, for smoothies and shakes.",
+                  "Whole Grains: Including quinoa, brown rice, and whole wheat, for fiber and nutrients.",
+                  "Fruits and Vegetables: A diverse range of fresh produce for essential nutrients and antioxidants."
+                ]
+              },
+              {
+                "id": 3,
+                "nutrition": "Non - vegetarian",
+                "food": [
+                  "Lean Meats: Such as chicken breast, turkey, and lean cuts of beef or pork.",
+                  "Fish and Seafood: Including salmon, tuna, shrimp, and mussels, for omega-3 fatty acids and protein.",
+                  "Eggs: A versatile source of protein and nutrients.",
+                  "Dairy Products: Such as milk, cheese, and yogurt, providing calcium and protein.",
+                  "Whole Grains: Including whole wheat bread, brown rice, and quinoa, for fiber and nutrients.",
+                  "Fruits and Vegetables: A wide variety of fresh produce for essential vitamins, minerals, and antioxidants.",
+                  "Nuts and Seeds: Providing healthy fats, protein, and essential nutrients.",
+                  "Legumes: Such as lentils, black beans, and chickpeas, for plant-based protein and fiber.",
+                  "Healthy Oils: Like olive oil and avocado oil, for cooking and dressings.",
+                  "Herbs and Spices: Used to enhance flavor and add variety to dishes."
+                ]
+              }
+            ]
+          }
+        ],
+        "trainerExercise": [
+          {
+            "id": 1,
+            "name": "Push-ups",
+            "sets": 10,
+            "repetitions": 10,
+            "duration": 15,
+            "day": "Monday"
+          },
+          {
+            "id": 2,
+            "name": "Squats",
+            "sets": 8,
+            "repetitions": 12,
+            "duration": 20,
+            "day": "Tuesday"
+          },
+          {
+            "id": 3,
+            "name": "Jumping jacks",
+            "sets": 5,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Wednesday"
+          },
+          {
+            "id": 4,
+            "name": "Burpees",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Thrusday"
+          },
+          {
+            "id": 5,
+            "name": "Push-ups",
+            "sets": 2,
+            "repetitions": 2,
+            "duration": 20,
+            "day": "Friday"
+          },
+          {
+            "id": 6,
+            "name": "Bodyweight squats",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Saturday"
+          }
+        ],
+        "lat": null,
+        "long": null,
         "createdAt": "2024-06-30T10:29:30.940Z",
         "updatedAt": "2024-06-30T10:30:21.473Z",
         "publishedAt": "2024-06-30T10:30:21.470Z"
@@ -1492,6 +940,7 @@
         "trainerId": 4,
         "location": "Pune",
         "gymName": "Passion Fitness GYM",
+        "gymId": 3,
         "age": 24,
         "trainerSkillList": [
           {
@@ -1500,6 +949,112 @@
             "listId": 1
           }
         ],
+        "trainerDietPlan": [
+          {
+            "id": 1,
+            "nutrition": [
+              {
+                "id": 1,
+                "nutrition": "vegetarian",
+                "food": [
+                  "Dairy Products: Including milk, cheese, and yogurt, often consumed by lacto-vegetarians.",
+                  "Legumes: Such as lentils, chickpeas, and black beans, which are rich in protein and fiber.",
+                  "Tofu: A versatile source of protein made from soybeans.",
+                  "Quinoa: A complete protein and a good source of fiber and various nutrients.",
+                  "Nuts and Seeds: Including almonds, walnuts, chia seeds, and flaxseeds, which provide healthy fats and protein.",
+                  "Fruits and Vegetables: A wide variety of fresh produce, providing essential vitamins, minerals, and antioxidants.",
+                  "Whole Grains: Such as brown rice, oats, and barley, offering fiber and nutrients.",
+                  "Plant-Based Oils: Like olive oil and coconut oil, used for cooking and dressings.",
+                  "Plant-Based Milk: Including almond milk, soy milk, and oat milk, as alternatives to dairy milk."
+                ]
+              },
+              {
+                "id": 2,
+                "nutrition": "vegan",
+                "food": [
+                  "Avocados: A rich source of healthy fats and various nutrients.",
+                  "Coconut Oil: Used for cooking and baking in place of animal-based fats.",
+                  "Nuts and Nut Butters: Providing protein, healthy fats, and essential nutrients.",
+                  "Seeds: Such as chia seeds, flaxseeds, and hemp seeds, offering protein and omega-3 fatty acids.",
+                  "Non-Dairy Yogurt: Made from coconut, almond, or soy milk, as a dairy-free alternative.",
+                  "Nutritional Yeast: Often used to add a cheesy flavor to dishes and as a source of vitamin B12.",
+                  "Tempeh: A fermented soy product, rich in protein and probiotics.",
+                  "Plant-Based Protein Powders: Derived from sources like pea, hemp, or rice, for smoothies and shakes.",
+                  "Whole Grains: Including quinoa, brown rice, and whole wheat, for fiber and nutrients.",
+                  "Fruits and Vegetables: A diverse range of fresh produce for essential nutrients and antioxidants."
+                ]
+              },
+              {
+                "id": 3,
+                "nutrition": "Non - vegetarian",
+                "food": [
+                  "Lean Meats: Such as chicken breast, turkey, and lean cuts of beef or pork.",
+                  "Fish and Seafood: Including salmon, tuna, shrimp, and mussels, for omega-3 fatty acids and protein.",
+                  "Eggs: A versatile source of protein and nutrients.",
+                  "Dairy Products: Such as milk, cheese, and yogurt, providing calcium and protein.",
+                  "Whole Grains: Including whole wheat bread, brown rice, and quinoa, for fiber and nutrients.",
+                  "Fruits and Vegetables: A wide variety of fresh produce for essential vitamins, minerals, and antioxidants.",
+                  "Nuts and Seeds: Providing healthy fats, protein, and essential nutrients.",
+                  "Legumes: Such as lentils, black beans, and chickpeas, for plant-based protein and fiber.",
+                  "Healthy Oils: Like olive oil and avocado oil, for cooking and dressings.",
+                  "Herbs and Spices: Used to enhance flavor and add variety to dishes."
+                ]
+              }
+            ]
+          }
+        ],
+        "trainerExercise": [
+          {
+            "id": 1,
+            "name": "Push-ups",
+            "sets": 10,
+            "repetitions": 10,
+            "duration": 15,
+            "day": "Monday"
+          },
+          {
+            "id": 2,
+            "name": "Squats",
+            "sets": 8,
+            "repetitions": 12,
+            "duration": 20,
+            "day": "Tuesday"
+          },
+          {
+            "id": 3,
+            "name": "Jumping jacks",
+            "sets": 5,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Wednesday"
+          },
+          {
+            "id": 4,
+            "name": "Burpees",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Thrusday"
+          },
+          {
+            "id": 5,
+            "name": "Push-ups",
+            "sets": 2,
+            "repetitions": 2,
+            "duration": 20,
+            "day": "Friday"
+          },
+          {
+            "id": 6,
+            "name": "Bodyweight squats",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Saturday"
+          }
+        ],
+        "lat": null,
+        "long": null,
         "createdAt": "2024-06-30T10:30:25.566Z",
         "updatedAt": "2024-06-30T10:30:53.293Z",
         "publishedAt": "2024-06-30T10:30:53.286Z"
@@ -1512,6 +1067,7 @@
         "trainerId": 5,
         "location": "Pune",
         "gymName": "Passion Fitness GYM",
+        "gymId": 4,
         "age": 24,
         "trainerSkillList": [
           {
@@ -1520,6 +1076,112 @@
             "listId": 1
           }
         ],
+        "trainerDietPlan": [
+          {
+            "id": 1,
+            "nutrition": [
+              {
+                "id": 1,
+                "nutrition": "vegetarian",
+                "food": [
+                  "Dairy Products: Including milk, cheese, and yogurt, often consumed by lacto-vegetarians.",
+                  "Legumes: Such as lentils, chickpeas, and black beans, which are rich in protein and fiber.",
+                  "Tofu: A versatile source of protein made from soybeans.",
+                  "Quinoa: A complete protein and a good source of fiber and various nutrients.",
+                  "Nuts and Seeds: Including almonds, walnuts, chia seeds, and flaxseeds, which provide healthy fats and protein.",
+                  "Fruits and Vegetables: A wide variety of fresh produce, providing essential vitamins, minerals, and antioxidants.",
+                  "Whole Grains: Such as brown rice, oats, and barley, offering fiber and nutrients.",
+                  "Plant-Based Oils: Like olive oil and coconut oil, used for cooking and dressings.",
+                  "Plant-Based Milk: Including almond milk, soy milk, and oat milk, as alternatives to dairy milk."
+                ]
+              },
+              {
+                "id": 2,
+                "nutrition": "vegan",
+                "food": [
+                  "Avocados: A rich source of healthy fats and various nutrients.",
+                  "Coconut Oil: Used for cooking and baking in place of animal-based fats.",
+                  "Nuts and Nut Butters: Providing protein, healthy fats, and essential nutrients.",
+                  "Seeds: Such as chia seeds, flaxseeds, and hemp seeds, offering protein and omega-3 fatty acids.",
+                  "Non-Dairy Yogurt: Made from coconut, almond, or soy milk, as a dairy-free alternative.",
+                  "Nutritional Yeast: Often used to add a cheesy flavor to dishes and as a source of vitamin B12.",
+                  "Tempeh: A fermented soy product, rich in protein and probiotics.",
+                  "Plant-Based Protein Powders: Derived from sources like pea, hemp, or rice, for smoothies and shakes.",
+                  "Whole Grains: Including quinoa, brown rice, and whole wheat, for fiber and nutrients.",
+                  "Fruits and Vegetables: A diverse range of fresh produce for essential nutrients and antioxidants."
+                ]
+              },
+              {
+                "id": 3,
+                "nutrition": "Non - vegetarian",
+                "food": [
+                  "Lean Meats: Such as chicken breast, turkey, and lean cuts of beef or pork.",
+                  "Fish and Seafood: Including salmon, tuna, shrimp, and mussels, for omega-3 fatty acids and protein.",
+                  "Eggs: A versatile source of protein and nutrients.",
+                  "Dairy Products: Such as milk, cheese, and yogurt, providing calcium and protein.",
+                  "Whole Grains: Including whole wheat bread, brown rice, and quinoa, for fiber and nutrients.",
+                  "Fruits and Vegetables: A wide variety of fresh produce for essential vitamins, minerals, and antioxidants.",
+                  "Nuts and Seeds: Providing healthy fats, protein, and essential nutrients.",
+                  "Legumes: Such as lentils, black beans, and chickpeas, for plant-based protein and fiber.",
+                  "Healthy Oils: Like olive oil and avocado oil, for cooking and dressings.",
+                  "Herbs and Spices: Used to enhance flavor and add variety to dishes."
+                ]
+              }
+            ]
+          }
+        ],
+        "trainerExercise": [
+          {
+            "id": 1,
+            "name": "Push-ups",
+            "sets": 10,
+            "repetitions": 10,
+            "duration": 15,
+            "day": "Monday"
+          },
+          {
+            "id": 2,
+            "name": "Squats",
+            "sets": 8,
+            "repetitions": 12,
+            "duration": 20,
+            "day": "Tuesday"
+          },
+          {
+            "id": 3,
+            "name": "Jumping jacks",
+            "sets": 5,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Wednesday"
+          },
+          {
+            "id": 4,
+            "name": "Burpees",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Thrusday"
+          },
+          {
+            "id": 5,
+            "name": "Push-ups",
+            "sets": 2,
+            "repetitions": 2,
+            "duration": 20,
+            "day": "Friday"
+          },
+          {
+            "id": 6,
+            "name": "Bodyweight squats",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Saturday"
+          }
+        ],
+        "lat": null,
+        "long": null,
         "createdAt": "2024-06-30T10:30:57.425Z",
         "updatedAt": "2024-06-30T10:31:19.692Z",
         "publishedAt": "2024-06-30T10:31:19.689Z"
@@ -1532,6 +1194,7 @@
         "trainerId": 6,
         "location": "Pune",
         "gymName": "Passion Fitness GYM",
+        "gymId": 5,
         "age": 24,
         "trainerSkillList": [
           {
@@ -1540,6 +1203,112 @@
             "listId": 1
           }
         ],
+        "trainerDietPlan": [
+          {
+            "id": 1,
+            "nutrition": [
+              {
+                "id": 1,
+                "nutrition": "vegetarian",
+                "food": [
+                  "Dairy Products: Including milk, cheese, and yogurt, often consumed by lacto-vegetarians.",
+                  "Legumes: Such as lentils, chickpeas, and black beans, which are rich in protein and fiber.",
+                  "Tofu: A versatile source of protein made from soybeans.",
+                  "Quinoa: A complete protein and a good source of fiber and various nutrients.",
+                  "Nuts and Seeds: Including almonds, walnuts, chia seeds, and flaxseeds, which provide healthy fats and protein.",
+                  "Fruits and Vegetables: A wide variety of fresh produce, providing essential vitamins, minerals, and antioxidants.",
+                  "Whole Grains: Such as brown rice, oats, and barley, offering fiber and nutrients.",
+                  "Plant-Based Oils: Like olive oil and coconut oil, used for cooking and dressings.",
+                  "Plant-Based Milk: Including almond milk, soy milk, and oat milk, as alternatives to dairy milk."
+                ]
+              },
+              {
+                "id": 2,
+                "nutrition": "vegan",
+                "food": [
+                  "Avocados: A rich source of healthy fats and various nutrients.",
+                  "Coconut Oil: Used for cooking and baking in place of animal-based fats.",
+                  "Nuts and Nut Butters: Providing protein, healthy fats, and essential nutrients.",
+                  "Seeds: Such as chia seeds, flaxseeds, and hemp seeds, offering protein and omega-3 fatty acids.",
+                  "Non-Dairy Yogurt: Made from coconut, almond, or soy milk, as a dairy-free alternative.",
+                  "Nutritional Yeast: Often used to add a cheesy flavor to dishes and as a source of vitamin B12.",
+                  "Tempeh: A fermented soy product, rich in protein and probiotics.",
+                  "Plant-Based Protein Powders: Derived from sources like pea, hemp, or rice, for smoothies and shakes.",
+                  "Whole Grains: Including quinoa, brown rice, and whole wheat, for fiber and nutrients.",
+                  "Fruits and Vegetables: A diverse range of fresh produce for essential nutrients and antioxidants."
+                ]
+              },
+              {
+                "id": 3,
+                "nutrition": "Non - vegetarian",
+                "food": [
+                  "Lean Meats: Such as chicken breast, turkey, and lean cuts of beef or pork.",
+                  "Fish and Seafood: Including salmon, tuna, shrimp, and mussels, for omega-3 fatty acids and protein.",
+                  "Eggs: A versatile source of protein and nutrients.",
+                  "Dairy Products: Such as milk, cheese, and yogurt, providing calcium and protein.",
+                  "Whole Grains: Including whole wheat bread, brown rice, and quinoa, for fiber and nutrients.",
+                  "Fruits and Vegetables: A wide variety of fresh produce for essential vitamins, minerals, and antioxidants.",
+                  "Nuts and Seeds: Providing healthy fats, protein, and essential nutrients.",
+                  "Legumes: Such as lentils, black beans, and chickpeas, for plant-based protein and fiber.",
+                  "Healthy Oils: Like olive oil and avocado oil, for cooking and dressings.",
+                  "Herbs and Spices: Used to enhance flavor and add variety to dishes."
+                ]
+              }
+            ]
+          }
+        ],
+        "trainerExercise": [
+          {
+            "id": 1,
+            "name": "Push-ups",
+            "sets": 10,
+            "repetitions": 10,
+            "duration": 15,
+            "day": "Monday"
+          },
+          {
+            "id": 2,
+            "name": "Squats",
+            "sets": 8,
+            "repetitions": 12,
+            "duration": 20,
+            "day": "Tuesday"
+          },
+          {
+            "id": 3,
+            "name": "Jumping jacks",
+            "sets": 5,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Wednesday"
+          },
+          {
+            "id": 4,
+            "name": "Burpees",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Thrusday"
+          },
+          {
+            "id": 5,
+            "name": "Push-ups",
+            "sets": 2,
+            "repetitions": 2,
+            "duration": 20,
+            "day": "Friday"
+          },
+          {
+            "id": 6,
+            "name": "Bodyweight squats",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Saturday"
+          }
+        ],
+        "lat": null,
+        "long": null,
         "createdAt": "2024-06-30T10:31:24.432Z",
         "updatedAt": "2024-06-30T10:31:52.838Z",
         "publishedAt": "2024-06-30T10:31:52.834Z"
@@ -1552,6 +1321,7 @@
         "trainerId": 2,
         "location": "Pune",
         "gymName": "Passion Fitness GYM",
+        "gymId": 6,
         "age": 24,
         "trainerSkillList": [
           {
@@ -1560,9 +1330,247 @@
             "listId": 1
           }
         ],
+        "trainerDietPlan": [
+          {
+            "id": 1,
+            "nutrition": {
+              "plan": [
+                {
+                  "id": "vegetarian",
+                  "food": [
+                    "Dairy Products: Including milk, cheese, and yogurt, often consumed by lacto-vegetarians.",
+                    "Legumes: Such as lentils, chickpeas, and black beans, which are rich in protein and fiber.",
+                    "Tofu: A versatile source of protein made from soybeans.",
+                    "Quinoa: A complete protein and a good source of fiber and various nutrients.",
+                    "Nuts and Seeds: Including almonds, walnuts, chia seeds, and flaxseeds, which provide healthy fats and protein.",
+                    "Fruits and Vegetables: A wide variety of fresh produce, providing essential vitamins, minerals, and antioxidants.",
+                    "Whole Grains: Such as brown rice, oats, and barley, offering fiber and nutrients.",
+                    "Plant-Based Oils: Like olive oil and coconut oil, used for cooking and dressings.",
+                    "Plant-Based Milk: Including almond milk, soy milk, and oat milk, as alternatives to dairy milk."
+                  ]
+                },
+                {
+                  "id": "vegan",
+                  "food": [
+                    "Avocados: A rich source of healthy fats and various nutrients.",
+                    "Coconut Oil: Used for cooking and baking in place of animal-based fats.",
+                    "Nuts and Nut Butters: Providing protein, healthy fats, and essential nutrients.",
+                    "Seeds: Such as chia seeds, flaxseeds, and hemp seeds, offering protein and omega-3 fatty acids.",
+                    "Non-Dairy Yogurt: Made from coconut, almond, or soy milk, as a dairy-free alternative.",
+                    "Nutritional Yeast: Often used to add a cheesy flavor to dishes and as a source of vitamin B12.",
+                    "Tempeh: A fermented soy product, rich in protein and probiotics.",
+                    "Plant-Based Protein Powders: Derived from sources like pea, hemp, or rice, for smoothies and shakes.",
+                    "Whole Grains: Including quinoa, brown rice, and whole wheat, for fiber and nutrients.",
+                    "Fruits and Vegetables: A diverse range of fresh produce for essential nutrients and antioxidants."
+                  ]
+                },
+                {
+                  "id": "Non - vegetarian",
+                  "food": [
+                    "Lean Meats: Such as chicken breast, turkey, and lean cuts of beef or pork.",
+                    "Fish and Seafood: Including salmon, tuna, shrimp, and mussels, for omega-3 fatty acids and protein.",
+                    "Eggs: A versatile source of protein and nutrients.",
+                    "Dairy Products: Such as milk, cheese, and yogurt, providing calcium and protein.",
+                    "Whole Grains: Including whole wheat bread, brown rice, and quinoa, for fiber and nutrients.",
+                    "Fruits and Vegetables: A wide variety of fresh produce for essential vitamins, minerals, and antioxidants.",
+                    "Nuts and Seeds: Providing healthy fats, protein, and essential nutrients.",
+                    "Legumes: Such as lentils, black beans, and chickpeas, for plant-based protein and fiber.",
+                    "Healthy Oils: Like olive oil and avocado oil, for cooking and dressings.",
+                    "Herbs and Spices: Used to enhance flavor and add variety to dishes."
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "trainerExercise": [
+          {
+            "id": 1,
+            "name": "Push-ups",
+            "sets": 10,
+            "repetitions": 10,
+            "duration": 15,
+            "day": "Monday"
+          },
+          {
+            "id": 2,
+            "name": "Squats",
+            "sets": 8,
+            "repetitions": 12,
+            "duration": 20,
+            "day": "Tuesday"
+          },
+          {
+            "id": 3,
+            "name": "Jumping jacks",
+            "sets": 5,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Wednesday"
+          },
+          {
+            "id": 4,
+            "name": "Burpees",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Thrusday"
+          },
+          {
+            "id": 5,
+            "name": "Push-ups",
+            "sets": 2,
+            "repetitions": 2,
+            "duration": 20,
+            "day": "Friday"
+          },
+          {
+            "id": 6,
+            "name": "Bodyweight squats",
+            "sets": 3,
+            "repetitions": 3,
+            "duration": 20,
+            "day": "Saturday"
+          }
+        ],
+        "lat": null,
+        "long": null,
         "createdAt": "2024-06-30T10:29:56.413Z",
         "updatedAt": "2024-06-30T10:32:03.396Z",
         "publishedAt": "2024-06-30T10:30:14.160Z"
+      }
+    }
+  ],
+  "gymOwner": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "gymId": 1,
+      "location": "Pune",
+      "email": "john.doe@example.com",
+      "userName": "JohnDoe",
+      "password": "Pass@123",
+      "lat": null,
+      "long": null,
+      "createdAt": "2024-06-30T10:28:23.159Z",
+      "updatedAt": "2024-06-30T10:28:23.159Z",
+      "publishedAt": "2024-06-30T10:28:23.159Z"
+    },
+    {
+      "id": 2,
+      "name": "Sam",
+      "gymId": 2,
+      "location": "Pune",
+      "email": "Sam.doe@example.com",
+      "userName": "SamJ",
+      "password": "Pass@123",
+      "lat": null,
+      "long": null,
+      "createdAt": "2024-06-30T10:28:23.159Z",
+      "updatedAt": "2024-06-30T10:28:23.159Z",
+      "publishedAt": "2024-06-30T10:28:23.159Z"
+    },
+    {
+      "id": 3,
+      "name": "Ram",
+      "gymId": 3,
+      "location": "Pune",
+      "email": "Ram.doe@example.com",
+      "userName": "RamK",
+      "password": "Pass@123",
+      "lat": null,
+      "long": null,
+      "createdAt": "2024-06-30T10:28:23.159Z",
+      "updatedAt": "2024-06-30T10:28:23.159Z",
+      "publishedAt": "2024-06-30T10:28:23.159Z"
+    },
+    {
+      "id": 4,
+      "name": "Vin Diesel",
+      "gymId": 3,
+      "location": "Pune",
+      "email": "Vin.Diesel@example.com",
+      "userName": "VinDiesel",
+      "password": "Pass@123",
+      "lat": null,
+      "long": null,
+      "createdAt": "2024-06-30T10:28:23.159Z",
+      "updatedAt": "2024-06-30T10:28:23.159Z",
+      "publishedAt": "2024-06-30T10:28:23.159Z"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "Govind",
+      "phone": "8087746131",
+      "email": "govind@setoo.co",
+      "userName": "Govind22",
+      "password": "Pass@123",
+      "location": "Pune",
+      "lat": null,
+      "long": null,
+      "createdAt": "2024-06-30T10:28:23.159Z",
+      "updatedAt": "2024-06-30T10:28:23.159Z",
+      "publishedAt": "2024-06-30T10:28:23.159Z"
+    }
+  ],
+  "result": [
+    {
+      "id": "0087",
+      "slug": "Rohit 44a1",
+      "overview": {
+        "name": "Rohit ",
+        "age": 23,
+        "gender": "M",
+        "weight": 70,
+        "height": 168,
+        "is_fat_accurate": false,
+        "neck": 50,
+        "waist": 90,
+        "hip": 60,
+        "body_type": "healthy",
+        "fitness_goal": "burn_fats",
+        "workout_days": 4,
+        "activity": "0"
+      }
+    },
+    {
+      "id": "7cd4",
+      "slug": "Samer37a0",
+      "overview": {
+        "name": "Samer",
+        "age": 22,
+        "gender": "M",
+        "weight": 48,
+        "height": 147,
+        "is_fat_accurate": false,
+        "neck": 50,
+        "waist": 90,
+        "hip": 60,
+        "body_type": "lean",
+        "fitness_goal": "cardiovascular",
+        "workout_days": 6,
+        "activity": "0"
+      }
+    },
+    {
+      "id": "c32b",
+      "slug": "Arvind8450",
+      "overview": {
+        "name": "Arvind",
+        "age": 25,
+        "gender": "M",
+        "weight": 67,
+        "height": 183,
+        "is_fat_accurate": false,
+        "neck": 50,
+        "waist": 90,
+        "hip": 60,
+        "body_type": "moderatelyoverweight",
+        "fitness_goal": "build_muscle",
+        "workout_days": 4,
+        "activity": "0"
       }
     }
   ]
